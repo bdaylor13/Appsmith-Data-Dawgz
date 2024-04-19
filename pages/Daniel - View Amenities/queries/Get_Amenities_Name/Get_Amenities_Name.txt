@@ -1,0 +1,3 @@
+{
+	amenityID = {{Table1.selectedRow.amenityID}}
+}

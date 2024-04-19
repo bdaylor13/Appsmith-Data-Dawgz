@@ -1,23 +1,43 @@
 {
   "pages": [
     {
-      "id": "Jacob Page 1",
+      "id": "Jacob - View Rentals",
+      "isDefault": false
+    },
+    {
+      "id": "Jacob Page 2",
+      "isDefault": false
+    },
+    {
+      "id": "Jacob - View Locations",
+      "isDefault": false
+    },
+    {
+      "id": "Jacob - Update rentals",
+      "isDefault": false
+    },
+    {
+      "id": "Mia - Delete Attractions",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
       "isDefault": true
     },
     {
-      "id": "Jacob Page 2",
+      "id": "Mia - Rental Page",
       "isDefault": false
     },
     {
-      "id": "Jacob Page 2",
+      "id": "Mia - Attractions",
       "isDefault": false
     },
     {
-      "id": "Jacob Page 3",
+      "id": "Mia - Add Attractions",
       "isDefault": false
     },
     {
-      "id": "Mia Page 1",
+      "id": "Daniel - View Amenities",
       "isDefault": false
     }
   ],
