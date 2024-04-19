@@ -1,0 +1,8 @@
+{ 
+	attractionID: {{Input1.text}},
+	attractionName: {{Input2.text}},
+	category: {{Input3.text}},
+	description: {{Input4.text}},
+	location: {{Input5.text}},
+	rideID: {{Input6.text}}
+}
