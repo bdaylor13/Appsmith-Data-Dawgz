@@ -5,7 +5,7 @@ Roamify UI:
 
 
 To view the app:
-- scroll to the bottom of the README and click the button that says "view"
+- scroll to the bottom of the README and click the button that says "view application"
 
 
 
